@@ -14,6 +14,10 @@ If so desired, you can submit your streak to: https://goo.gl/forms/4S7xxL7rcNIgO
 
 [Click here!](/streaks.html)
 
+### Why?
+
+The idea was inspired by the traditional 1 mile streak, http://www.runeveryday.com/index.html, the reason we decide to introduce a "super" streak was that it seemed easy to sneak a 1 mile run in, with a bit of a push, you can have your run done in ~10mins. The logistics of running 5 km each day seemed just the right balance between too easy and too hard, and gave the challenge of running every day, at least more mortals, a little edge to it.
+
 ### Why 45 mins?
 
 According to google the average person can walk 5 km in 45 mins. This is supposed to be a run!
