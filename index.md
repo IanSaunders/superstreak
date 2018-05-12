@@ -6,9 +6,9 @@
 * At least one 5 km segment of the run must take less than 45 min
 * Runs must be continuous, i.e. the 45 mins can’t be split over the course of the day
 * The calendar day is the time zone of the location run
-* Any streak less than 365 days is classed as a super streak attempt, anything less is an attempt
+* Any streak less than 365 days is classed as a super streak attempt.
 
-If so desired, you can submit your streak to: https://goo.gl/forms/4S7xxL7rcNIgOqln2
+If so desired, you can submit your streak [here](https://goo.gl/forms/4S7xxL7rcNIgOqln2)
 
 ### Where can I see a list of streaks?
 
@@ -16,7 +16,7 @@ If so desired, you can submit your streak to: https://goo.gl/forms/4S7xxL7rcNIgO
 
 ### Why?
 
-The idea was inspired by the traditional 1 mile streak, http://www.runeveryday.com/index.html, the reason we decide to introduce a "super" streak was that it seemed easy to sneak a 1 mile run in, with a bit of a push, you can have your run done in ~10mins. The logistics of running 5 km each day seemed just the right balance between too easy and too hard, and gave the challenge of running every day, at least more mortals, a little edge to it.
+The idea was inspired by the traditional [1 mile streak](http://www.runeveryday.com/index.html), the "super", it seemed easy to sneak a 1 mile run in every day as with a bit of a push, you can have the run done in ~10mins, that's a coffee break right? The logistics of running 5 km each day seemed just the right balance between too easy and too hard, and gave the streak, at least for mortals, a little edge to it.
 
 ### Why 45 mins?
 
@@ -26,15 +26,11 @@ According to google the average person can walk 5 km in 45 mins. This is suppose
 
 You may have 1 long continuous run that starts and ends on different days. This may count for two days if there is 5 km section under 45 mins in each calendar day.
 
-###  Help, I’m running 100 miles!
-
-For runs longer than or equal to 50 miles, the time limit for running your 5 km may be increased to 70 mins.
-
 ###  I am flying and will be in the air for a day
 
-If, and only if your flight arrives +2 days, i.e you take off on Friday and land Sunday, you may double the distance and time of your run either side of the flight to make up for the day in-the-air. Ie 10 km on the Friday or Sunday under 90 mins.
+If, and only if your flight arrives +2 days, i.e you take off on Friday and land Sunday, you may double the distance and time of your run either side of the flight to make up for the day in-the-air. I.e 10 km on the Friday or Sunday with the total of the 10 km done under 90 mins.
 
-Why not force you to find a way to get the 5 km in, for example on the plane or in the airport. We already tried to keep a steak going in this situation, it very tricky as there are many things out of your control. For example delayed flights or having bags. Though we would prefer to be purist, this seemed like an acceptable compromise.
+You may ask, why not force the runner to find a way to get the 5 km in, for example on the plane or in the airport. We already tried to keep a streak going in this situation, it very tricky as there are many things out of your control. For example delayed flights, having luggage or airport wondering why you are doing figure of 8s around chairs (yes this happened!). Though we would prefer to be purists, this seemed like an acceptable compromise.
 
 ###  Can I run further and skip a day?
 
@@ -46,21 +42,19 @@ No
 
 ###  What proof do I need?
 
-We are following a scouts honour approach.  That said, we will be adding an automated way to indicate current streaks are still live based on strava IDs and runs... so that’s a good start? If you are going 
+We are following a scouts honour approach at the moment. That said, we will be adding an automated way to indicate current streaks are still live based on strava runs...
 
 ###  How do we know a streak is live?
 
-We ask for Strava IDs of streaks and use our magic internet worms to check every week on peoples updates. If you don’t use strava we email once a month to ask what’s happening!
+Coming!
 
 ###  I’m already streaking!
 
-Good work! If you are already streaking we can add you in. There are just a couple of things to note.
+Good work! If you are already streaking we can add you in. There are just a couple of things to note:
 
-We will only includes from the 26th March 2018 onwards.
-
-Ideally some mild amount of proof would be useful
-
-The above rules still apply.
+* We will only includes from the 26th March 2018 onwards.
+* Ideally some mild amount of proof would be useful
+* The SuperStreak rules apply.
 
 ###  I missed a day.
 
