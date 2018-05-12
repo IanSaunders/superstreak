@@ -30,7 +30,7 @@ You may have 1 long continuous run that starts and ends on different days. This 
 
 If, and only if your flight arrives +2 days, i.e you take off on Friday and land Sunday, you may double the distance and time of your run either side of the flight to make up for the day in-the-air. I.e 10 km on the Friday or Sunday with the total of the 10 km done under 90 mins.
 
-You may ask, why not force the runner to find a way to get the 5 km in, for example on the plane or in the airport. We already tried to keep a streak going in this situation, it very tricky as there are many things out of your control. For example delayed flights, having luggage or airport wondering why you are doing figure of 8s around chairs (yes this happened!). Though we would prefer to be purists, this seemed like an acceptable compromise.
+You may ask, why not force the runner to find a way to get the 5 km in, for example on the plane or in the airport. We already tried to keep a streak going in this situation, it very tricky as there are many things out of your control. For example delayed flights, having luggage or airport security wondering why you are doing figure of 8s around chairs (yes this happened!). Though we would prefer to be purists, this seemed like an acceptable compromise.
 
 ###  Can I run further and skip a day?
 
