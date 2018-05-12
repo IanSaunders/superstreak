@@ -10,6 +10,10 @@
 
 If so desired, you can submit your streak to: https://goo.gl/forms/4S7xxL7rcNIgOqln2
 
+### Where can I see a list of streaks?
+
+[Click here!](/streaks.html)
+
 ### Why 45 mins?
 
 According to google the average person can walk 5 km in 45 mins. This is supposed to be a run!
