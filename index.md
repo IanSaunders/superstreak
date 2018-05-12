@@ -2,7 +2,7 @@
 
 # What is a Super streak?
 * Runs must be no less than 5 km in distance
-* Run must be carried out on consecutive calendar day
+* Run must be carried out on consecutive calendar days
 * At least one 5 km segment of the run must take less than 45 min
 * Runs must be continuous, i.e. the 45 mins can’t be split over the course of the day
 * The calendar day is the time zone of the location run
