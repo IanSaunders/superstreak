@@ -52,7 +52,7 @@ Coming!
 
 Good work! If you are already streaking we can add you in. There are just a couple of things to note:
 
-* We will only includes from the 26th March 2018 onwards.
+* We will only include runs from the 26th March 2018 onwards.
 * Ideally some mild amount of proof would be useful
 * The SuperStreak rules apply.
 
