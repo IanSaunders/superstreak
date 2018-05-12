@@ -16,7 +16,7 @@ If so desired, you can submit your streak [here](https://goo.gl/forms/4S7xxL7rcN
 
 ### Why?
 
-The idea was inspired by the traditional [1 mile streak](http://www.runeveryday.com/index.html), with the traditional streak it's possible to sneak a 1 mile run as you can easily have the run done in ~12mins, that's a coffee break right? The logistics of running 5 km each day seemed just the right balance between too easy and too hard, and gives the streak a little edge to it.
+The idea was inspired by the traditional [1 mile streak](http://www.runeveryday.com/index.html), with the traditional streak you can easily get the run done in ~12mins, that's a coffee break right? The logistics of running 5 km each day seemed just the right balance between too easy and too hard, and gives the streak a little edge to it.
 
 ### Why 45 mins?
 
